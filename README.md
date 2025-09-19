@@ -322,20 +322,6 @@ We welcome contributions to the NeuroNest project! Here's how you can help:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support & Contact
-
-For questions, suggestions, or support:
-
-- **Project Repository**: [GitHub Repository Link]
-- **Documentation**: [Documentation Link]
-- **Issues**: [GitHub Issues Page]
-- **Discussions**: [GitHub Discussions Page]
-
----
 
 ## 🙏 Acknowledgments
 
